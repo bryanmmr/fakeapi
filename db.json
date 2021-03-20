@@ -1,30 +1,26 @@
 [
-      {
-         'id': 1,
-         'nombre': 'Evento2',
-         'image':
-            'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe1257ed3-39e0-4090-ad74-49ba240b41c2%2FSubmdulo_Insignias-2.jpg?table=block&id=415f61ea-5d8e-4524-abcd-9da6518dfc14&width=3840&userId=&cache=v2',
-         'descripcion': 'lorem ipsum dolor 2222',
-      },
-      {
-         'id': 2,
-         'nombre': 'Evento3',
-         'image':
-            'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe1257ed3-39e0-4090-ad74-49ba240b41c2%2FSubmdulo_Insignias-2.jpg?table=block&id=415f61ea-5d8e-4524-abcd-9da6518dfc14&width=3840&userId=&cache=v2',
-         'descripcion': 'lorem ipsum dolor 3333',
-      },
-      {
-         'id': 3,
-         'nombre': 'Evento4',
-         'image':
-            'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe1257ed3-39e0-4090-ad74-49ba240b41c2%2FSubmdulo_Insignias-2.jpg?table=block&id=415f61ea-5d8e-4524-abcd-9da6518dfc14&width=3840&userId=&cache=v2',
-         'descripcion': 'lorem ipsum dolor 4444',
-      },
-      {
-         'id': 4,
-         'nombre': 'Evento5',
-         'image':
-            'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe1257ed3-39e0-4090-ad74-49ba240b41c2%2FSubmdulo_Insignias-2.jpg?table=block&id=415f61ea-5d8e-4524-abcd-9da6518dfc14&width=3840&userId=&cache=v2',
-         'descripcion': 'lorem ipsum dolor 5555',
-      },
-   ]
+   {
+      "id":1,
+      "nombre":"Evento2",
+      "image":"https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe1257ed3-39e0-4090-ad74-49ba240b41c2%2FSubmdulo_Insignias-2.jpg?table=block&id=415f61ea-5d8e-4524-abcd-9da6518dfc14&width=3840&userId=&cache=v2",
+      "descripcion":"lorem ipsum dolor 2222"
+   },
+   {
+      "id":2,
+      "nombre":"Evento3",
+      "image":"https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe1257ed3-39e0-4090-ad74-49ba240b41c2%2FSubmdulo_Insignias-2.jpg?table=block&id=415f61ea-5d8e-4524-abcd-9da6518dfc14&width=3840&userId=&cache=v2",
+      "descripcion":"lorem ipsum dolor 3333"
+   },
+   {
+      "id":3,
+      "nombre":"Evento4",
+      "image":"https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe1257ed3-39e0-4090-ad74-49ba240b41c2%2FSubmdulo_Insignias-2.jpg?table=block&id=415f61ea-5d8e-4524-abcd-9da6518dfc14&width=3840&userId=&cache=v2",
+      "descripcion":"lorem ipsum dolor 4444"
+   },
+   {
+      "id":4,
+      "nombre":"Evento5",
+      "image":"https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe1257ed3-39e0-4090-ad74-49ba240b41c2%2FSubmdulo_Insignias-2.jpg?table=block&id=415f61ea-5d8e-4524-abcd-9da6518dfc14&width=3840&userId=&cache=v2",
+      "descripcion":"lorem ipsum dolor 5555"
+   }
+]
